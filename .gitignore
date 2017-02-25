@@ -1,0 +1,12 @@
+target/
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+
+#Intellij
+.idea/
+*.iml
+*.iws
+
+#Mac
+.DS_Store
