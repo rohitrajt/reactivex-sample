@@ -1,0 +1,5 @@
+com/rohit/book/rating/controllers/RatingController.class
+com/rohit/book/rating/Application.class
+com/rohit/book/rating/services/impl/BookRatingServiceImpl.class
+com/rohit/book/rating/model/Rating.class
+com/rohit/book/rating/services/BookRatingService.class
