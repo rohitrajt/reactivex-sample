@@ -1,7 +1,0 @@
-com/rohit/book/details/services/BookDetailsService.class
-com/rohit/book/details/services/impl/BookDetailsServiceImpl.class
-com/rohit/book/details/controllers/BookDetailsController.class
-com/rohit/book/details/models/BookDetails.class
-com/rohit/book/details/models/BookDetailsListResponse.class
-com/rohit/book/details/ApplicationConfig.class
-com/rohit/book/details/Application.class
