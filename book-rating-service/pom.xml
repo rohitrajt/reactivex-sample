@@ -11,6 +11,10 @@
 
     <artifactId>book-rating-service</artifactId>
 
+    <properties>
+        <start-class>com.rohit.book.rating.Application</start-class>
+    </properties>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
